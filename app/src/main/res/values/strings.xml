@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PizzaApp</string>
+    <string name="placeholder_name">Please fill your name</string>
+</resources>
